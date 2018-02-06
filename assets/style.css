@@ -1,4 +1,9 @@
-.jumbotron .container
+.container
+{
+	margin-top:50px;
+}
+
+.jumbotron
 {
 	max-height: 100%;
 	max-width: 100%;
